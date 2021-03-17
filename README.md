@@ -8,13 +8,39 @@
 # ✅ Status do Projeto
 
 
-🚧  🚀 Em Breve Version 1.0 ...  🚧
+ 🚀 Versão 1.0 já em funcionamento!!!  🚀
 
 
 
 #  ✅ Features
 
-- [x] ETC...
+# Usabilidade/Design Telas
+
+- [x] Login
+- [x] Home - Bem Vindo
+- [x] Cadastro Temperatura(Ambiente - Rio)
+- [x] Cadastro Piscinas
+- [x] Lista de Piscinas Cadastradas
+- [x] Cadastro de relátorio Analise PQA
+- [x] Cadastro de relátorio Analise CACP
+- [x] Relátorio Analise CACP
+- [x] Relátorio Analise PQA
+- [x] Cadastro de Usuarios
+- [x] Lista de Usuarios
+
+
+# Fetures Pendentes - Regras!
+
+
+- [x]  Submits são tampados com o teclado android
+- [x] AJUSTAR A IMAGEM DE CARREGAMENTO EM TODAS TELAS(o componente de carregamento de botoes enquanto carrega as informações).
+- [x] Listar apenas piscinas ativas
+- [x] Users desativados não podem logar no sistema!
+- [x] loading tubarão ao entrar nas telas para ajudar no carregamento dos efects
+- [x] ajuste timer token quando espira, tentar encaminhar uma mensagem 'efetue um novo login' ou redirecionar para o login
+- [x] ajustar imputs REF e alterar inputs modo para number
+- [x] Ajustar o NAVIGATION FOCUS EM TODAS TELAS!
+- [x] Checar a orderBy de todos relaórios
 
 # ✅ Demonstração da aplicação
 
@@ -28,7 +54,20 @@
 
 #  ✅ Configuração inicial do Sistema - DB
 
+#### Clonando o projeto
+```sh
+$ git clone https://github.com/NinjaAzul/NLW4.git
+$ cd NLW4-master
+```
+#### Iniciando a API
+```sh
+$ cd Api
 
+# Rodando as migrations para o banco de dados e iniciando o projeto
+ 1° - $ yarn - "Dependencias do projeto"
+ 2° - $ yarn typeorm migration:run - "cria uma migration no SQLITE e cria as tabelas no banco"
+ 3° - $ yarn dev - "inicia o backend" 
+```
 --------------------------------------------------------------------------------------------------------------------------------------------
 //INSERIR USUÁRIO                                                                                                                            
 
@@ -83,39 +122,8 @@ INSERT INTO analises VALUES (4, 4, '2020-11-07 20:34:39.485+00', '2020-11-07 20:
 yarn add @react-native-community/cli-platform-android (Inicialização do APP Android Studio)
 
 # ⚠ PENDENCIAS
-
-# Usabilidade/Design Telas
-
-- [x] Login
-- [x] Home - Bem Vindo
-- [x] Cadastro Temperatura(Ambiente - Rio)
-- [x] Cadastro Piscinas
-- [x] Lista de Piscinas Cadastradas
-- [x] Cadastro de relátorio Analise PQA
-- [x] Cadastro de relátorio Analise CACP
-- [x] Relátorio Analise CACP
-- [x] Relátorio Analise PQA
-- [x] Cadastro de Usuarios
-- [x] Lista de Usuarios
-
-
-# Fetures Pendentes - Regras!
-
-
-- [x]  Submits são tampados com o teclado android
-- [x] AJUSTAR A IMAGEM DE CARREGAMENTO EM TODAS TELAS(o componente de carregamento de botoes enquanto carrega as informações).
-- [x] Listar apenas piscinas ativas
-- [x] Users desativados não podem logar no sistema!
-- [x] loading tubarão ao entrar nas telas para ajudar no carregamento dos efects
-- [x] ajuste timer token quando espira, tentar encaminhar uma mensagem 'efetue um novo login' ou redirecionar para o login
-- [x] ajustar imputs REF e alterar inputs modo para number
-- [x] Ajustar o NAVIGATION FOCUS EM TODAS TELAS!
-- [x] Checar a orderBy de todos relaórios
-
-
-## Ajustar loading ao buscar uma piscina especifica Lista de Piscinas Cadastradas
-- [x] list piscina
-- [x] list user
+ 
+  - [x] NOVAS IDEIAS AQUI!
 
 # ✅ Tecnologias utilizadas
 
