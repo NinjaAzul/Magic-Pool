@@ -46,18 +46,21 @@
 
 <h1 align="center">
   <img src=mobile/public/GitinputPadding.gif />
+ <p><strong>Demo do sistema no LinkedIn</strong></p>
 </h1>
 
-
-
-
-
-#  ✅ Configuração inicial do Sistema - DB
+#  ✅ Configuração inicial do Sistema
 
 #### Clonando o projeto
 ```sh
-$ git clone https://github.com/NinjaAzul/NLW4.git
+$ git clone https://github.com/NinjaAzul/Magic-Pool.git
 $ cd Magic-Pool-master
+```
+#### Criando uma Imagem postgres com docker
+```sh
+1° Baixe o docker em sua maquina !
+2° $ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+3° $ docker start my_container
 ```
 #### Iniciando a API
 ```sh
@@ -65,8 +68,9 @@ $ cd Api
 
 # Rodando as migrations para o banco de dados e iniciando o projeto
  1° - $ yarn - "Dependencias do projeto"
- 2° - $ yarn typeorm migration:run - "cria uma migration no SQLITE e cria as tabelas no banco"
- 3° - $ yarn dev - "inicia o backend" 
+ 2° - $ yarn sequelize-cli db:migrate ou npx sequelize-cli db:migrate - "Cria uma migration no Postgres e cria as tabelas no banco"
+ 3° - $ yarn dev - "Inicia o BackEnd"
+ 4° $ yarn dev:debug - "Debuga o BackEnd
 ```
 --------------------------------------------------------------------------------------------------------------------------------------------
 //INSERIR USUÁRIO                                                                                                                            
