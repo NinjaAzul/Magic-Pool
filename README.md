@@ -155,6 +155,15 @@ https://insomnia.rest/
 
 ```
 
+#### Iniciando o Frontend
+```sh
+cd mobile
+
+ 1° - $ yarn - "Dependencias do projeto"
+ 2° - $ yarn andoid ou npx react-native run-android "Inicia o projeto no emulador" OBS:"Emulador deve estar Ligado"
+ 3° Se divirta ! :)
+```
+
 # ⚠ PENDENCIAS
  
   - [x] NOVAS IDEIAS AQUI!
@@ -172,6 +181,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [Javascript](https://www.javascript.com/)
 - [Sequelize](https://sequelize.org/)
+
+### :memo: Licença
+
+Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
+
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com 💙 by <strong>  😎 Erick de Freitas Gonçalves 😎 </strong> </p>
 
 <Div style{alingnItems: 'center'}> 
  <img src=https://img.shields.io/badge/Licence-Private-blue/> 
