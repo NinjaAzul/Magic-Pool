@@ -46,8 +46,9 @@
 
 <h1 align="center">
   <img src=mobile/public/GitinputPadding.gif />
- <p><strong>Demo do sistema no LinkedIn</strong></p>
-</h1>
+ <a href="https://www.linkedin.com/posts/erick-freitas-048064134_reactnative-activity-6769379522686070784-nbsA">🏊‍Sistem Demo Click Here!!!🏊‍</a>
+</h1>"
+ 
 
 #  ✅ Configuração inicial do Sistema
 
@@ -70,7 +71,7 @@ $ cd Api
  1° - $ yarn - "Dependencias do projeto"
  2° - $ yarn sequelize-cli db:migrate ou npx sequelize-cli db:migrate - "Cria uma migration no Postgres e cria as tabelas no banco"
  3° - $ yarn dev - "Inicia o BackEnd"
- 4° $ yarn dev:debug - "Debuga o BackEnd
+ 4° $ yarn dev:debug - "Debuga o BackEnd"
 ```
 --------------------------------------------------------------------------------------------------------------------------------------------
 //INSERIR USUÁRIO                                                                                                                            
