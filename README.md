@@ -57,7 +57,7 @@
 #### Clonando o projeto
 ```sh
 $ git clone https://github.com/NinjaAzul/NLW4.git
-$ cd NLW4-master
+$ cd Magic-Pool-master
 ```
 #### Iniciando a API
 ```sh
