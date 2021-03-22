@@ -44,16 +44,11 @@
 
 # ✅ App on Figma
 
-<button <a href="#" class="button danger">Delete post</a>
 
 
-<a href="https://www.figma.com/file/oJNAybsPgrCFaAOxtkvhrX?embed_host=share&kind=&node-id=0%3A1&viewer=1"><button 
-            class="inline-block px-4 py-2 text-center text-white transition bg-black rounded shadow ripple waves-light hover:shadow-lg hover:bg-black focus:outline-none flex flex-row-reverse m-0.5 justify-items-center items-center"
-          >
-            <svg class="w-10 h-10 text-white fill-current ml-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-              <path class="cls-2" d="M17.36 6.24a1.4 1.4 0 0 1 1.4 1.4v9.72a1.4 1.4 0 0 1-1.4 1.4H7.64a1.4 1.4 0 0 1-1.4-1.4V7.64a1.4 1.4 0 0 1 1.4-1.4h9.72m0-.6H7.64a2 2 0 0 0-2 2v9.72a2 2 0 0 0 2 2h9.72a2 2 0 0 0 2-2V7.64a2 2 0 0 0-2-2z" fill="#454b57"/><path id="path0_fill" data-name="path0 fill" class="cls-3" d="M10.79 17.63a1.71 1.71 0 0 0 1.71-1.71v-1.71h-1.71a1.71 1.71 0 1 0 0 3.42z" fill="#0acf83"/><path id="path1_fill" data-name="path1 fill" class="cls-4" d="M9.08 12.5a1.71 1.71 0 0 1 1.71-1.71h1.71v3.42h-1.71a1.71 1.71 0 0 1-1.71-1.71z" fill="#a259ff"/><path id="path1_fill-2" data-name="path1 fill" class="cls-5" d="M9.08 9.08a1.71 1.71 0 0 1 1.71-1.71h1.71v3.42h-1.71a1.71 1.71 0 0 1-1.71-1.71z" fill="#f24e1e"/><path id="path2_fill" data-name="path2 fill" class="cls-6" d="M12.5 7.38h1.71a1.71 1.71 0 1 1 0 3.42H12.5z" fill="#ff7262"/><path id="path3_fill" data-name="path3 fill" class="cls-7" d="M15.92 12.5a1.71 1.71 0 1 1-1.71-1.71 1.71 1.71 0 0 1 1.71 1.71z" fill="#1abcfe"/></g><path class="cls-8" fill="none" d="M0 0h25v25H0z"/>
-            </svg>
-          <strong> Figma </strong></button></a>
+<h1 align="center">
+<a href="https://www.figma.com/file/oJNAybsPgrCFaAOxtkvhrX?embed_host=share&kind=&node-id=0%3A1&viewer=1">🖼️ Figma 🖼️</a>
+</h1> 
 
 
 # ✅ Demonstração da aplicação
