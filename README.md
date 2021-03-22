@@ -42,6 +42,10 @@
 - [x] Ajustar o NAVIGATION FOCUS EM TODAS TELAS!
 - [x] Checar a orderBy de todos relaórios
 
+# ✅ App on Figma
+
+<a href="igma.com/file/oJNAybsPgrCFaAOxtkvhrX?embed_host=share&kind=&node-id=0%3A1&viewer=1">🧱 Figma 🧱</a>https://www.f
+
 # ✅ Demonstração da aplicação
 
 <h1 align="center">
