@@ -47,7 +47,7 @@
 
 
 <h1 align="center">
-<a href="https://www.figma.com/file/oJNAybsPgrCFaAOxtkvhrX?embed_host=share&kind=&node-id=0%3A1&viewer=1">🖼️ Figma 🖼️</a>
+<a href="https://www.figma.com/file/oJNAybsPgrCFaAOxtkvhrX?embed_host=share&kind=&node-id=0%3A1&viewer=1"><img alt="Figma" src="https://camo.githubusercontent.com/42b5cd94dbe9961d5b1071ea4dae36e2b63d35a8e6e56e7bf91fedf28988c80c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612532302d2532334632344531452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&amp;style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width:100%;"></a>
 </h1> 
 
 
